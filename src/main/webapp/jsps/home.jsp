@@ -18,7 +18,9 @@
 	</span>
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
-		Martha Halli,Opp To Madhurai Iddly House
+		MarthaHalli,
+		ABOVE ICICI BANK,
+		Near Meghana Biriyani,
 		Bangalore.
 		+91-9980923226,
 		<br>
