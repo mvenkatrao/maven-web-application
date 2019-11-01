@@ -18,7 +18,9 @@
 	</span>
 	<span style="font-weight: bold;">
 		Mithun Software Solutions, 
-		Martha Halli,Opp To Madhurai Iddly
+		Martha Halli,Opp ABOVE ICICI BANK 
+		2ND FLOOR,
+		NEAR TO MEGHANA RESTARENT
 		Bangalore.
 		+91-9980923226,
 		<br>
