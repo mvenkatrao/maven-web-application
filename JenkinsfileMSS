@@ -49,7 +49,7 @@ node('paytm-node'){
 
  stage('SonarQubeReport')
  {
-  sh  "${mavenHome}/bin/sonar:sonar"
+  sh  "${mavenHome}/bin/mvn sonar:sonar"
  }
 
   stage('UploadArtifactsIntoNexus')
